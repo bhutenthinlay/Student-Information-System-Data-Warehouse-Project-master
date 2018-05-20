@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-FI8CLEKI.UoWindsor.admin"
+  DTS:DTSID="{E383F3E4-16BC-4288-A299-50EDA206DBDC}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=LAPTOP-FI8CLEKI;User ID=admin;Initial Catalog=UoWindsor;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1MlyLYt2Tk25ICztYhjXnwAAAAACAAAAAAAQZgAAAAEAACAAAAC3QdHXx22TarJvEsVNdFaN6nhroRDNaBzQ6ASb4bRlpAAAAAAOgAAAAAIAACAAAABAsTJEShcJwI6oli7lVfbNLQTt8MtqwaAVfqloEr4CzoAAAAAYGIYbiCQfyK5Ihw81uIxH1ie17v9JT6lOweXMT4S1SSUI63qKcD/rIGUFQOYCTWT1+FF4PkKl0SHx+kOd7Ehf6B7iVHUxfSM3cBJS8LmlDRwM2G8oqIo2iXGUCp2PNNlzUVpA6dsTF7bRs4FugHHT13UtlEQUOG7f9fUHbkGPAEAAAADPaN4o01nKd7Bg+6yXcknEmnTOqz9Ablg6jpV6XCE/anotrfYrftWCTf51E10t1Q4A8YdxSgk635V61UwaIKc1</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
